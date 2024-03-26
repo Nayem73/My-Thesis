@@ -6,8 +6,6 @@
 
 3. upload the code in the above mentioned direction and open the code with Google Colab. Run all the cells of the code.
 
-
-
 # Brief
 
 Remote sensing is a powerful technology that captures information about the Earth’s surface from a distance. Accurately classifying these vast amount of data in a relatively short time allows us to monitor changes in land use, assess the impact of natural disasters, and aid in urban planning and real time monitoring during emergencies.  
@@ -21,8 +19,6 @@ Remote sensing is a powerful technology that captures information about the Eart
 - We used eight remote sensing image datasets of varying spatial resolutions to assess our model’s capability.  
 - We merged all the datasets with a variety of preprocessing methods, resulted in a 64 class dataset and compared the results with different standalone and fine-tuned hybrid models with different assessment and measuring methods including train and test accuracy, precision, recall, f1-score, confusion matrix, loss-accuracy curve etc.  
 - By comparing the results from both the individual and merged datasets with different standalone and fine-tuned hybrid models, we can decide which model can be used to accurately classify remote sensing images in a relatively shorter time duration.
-
-
 
 # Abstract
 
@@ -59,3 +55,5 @@ used for better generalization and convergence. Despite performing image
 compression using PCA and resizing images, our model’s accuracy compares well
 with that of the original dataset. This reconfirms our model’s effectiveness on
 large-scale remote sensing images.
+
+![Image preview](https://media.licdn.com/dms/image/D5622AQH8dKvDRURGxA/feedshare-shrink_800/0/1706678853636?e=1714608000&v=beta&t=96Z_UY4eirK2XemXFefP4YIjEP9sev9dgjJDbNv7Vdo)
