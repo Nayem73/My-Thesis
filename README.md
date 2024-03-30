@@ -6,6 +6,12 @@
 
 3. upload the code in the above mentioned direction and open the code with Google Colab. Run all the cells of the code.
 
+
+https://github.com/Nayem73/My-Thesis/assets/111779609/f7d9ca6a-a380-4824-98d3-54cdd0bcff70
+
+
+
+
 # Brief
 
 Remote sensing is a powerful technology that captures information about the Earth’s surface from a distance. Accurately classifying these vast amount of data in a relatively short time allows us to monitor changes in land use, assess the impact of natural disasters, and aid in urban planning and real time monitoring during emergencies.  
