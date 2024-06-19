@@ -62,4 +62,4 @@ compression using PCA and resizing images, our model’s accuracy compares well
 with that of the original dataset. This reconfirms our model’s effectiveness on
 large-scale remote sensing images.
 
-![Image preview](https://media.licdn.com/dms/image/D5622AQH8dKvDRURGxA/feedshare-shrink_800/0/1706678853636?e=1714608000&v=beta&t=96Z_UY4eirK2XemXFefP4YIjEP9sev9dgjJDbNv7Vdo)
+![Image preview](https://raw.githubusercontent.com/Nayem73/My-Portfolio/main/assets/images/thesis.jpeg)
